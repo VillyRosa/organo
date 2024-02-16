@@ -6,29 +6,27 @@ const Rodape = () => {
         <section>
             <ul>
                 <li>
-                    <a href="facebook.com" target="_blank">
-                        <img src="/imagens/facebook.png" alt="" />
+                    <a href="facebook" target="_blank">
+                        <img src="/imagens/fb.png" alt="facebook-icon" />
                     </a>
                 </li>
                 <li>
-                    <a href="twitter.com" target="_blank">
-                        <img src="/imagens/twitter.png" alt="" />
+                    <a href="twitter" target="_blank">
+                        <img src="/imagens/tw.png" alt="twitter-icon" />
                     </a>
                 </li>
                 <li>
-                    <a href="instagram.com" target="_blank">
-                        <img src="/imagens/instagram.png" alt="" />
+                    <a href="instagram" target="_blank">
+                        <img src="/imagens/ig.png" alt="instagram-icon" />
                     </a>
                 </li>
             </ul>
         </section>
         <section>
-            <img src="/imagens/logo.png" alt="" />
+            <img src="/imagens/logo.png" alt="logo" />
         </section>
         <section>
-            <p>
-                Desenvolvido por Alura.
-            </p>
+            <p>Desenvolvido por VillyRosa.</p>
         </section>
     </footer>
   );
